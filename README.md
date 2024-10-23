@@ -11,7 +11,7 @@ This is Md. Akther Hosen
 *   🧠  I'm learning TypeScript, NextJS
 *   🤝  I'm open to collaborating on interesting project
   <ol style={
-    list-style: 'none',
+   { list-style: 'none',}
   }>
     <li>a</li>
   </ol>
