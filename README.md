@@ -1,8 +1,9 @@
 
-Hi 👋 My name is Md Akther Hosen
+Hi,
+This is Md. Akther Hosen
 ================================
 
-Web Developer | Frontend Developer | Full Stack Developer | MERN Developer
+<small> Web Developer | Frontend Developer | Full Stack Developer | MERN Developer </small>
 --------------------------------------------------------------------------
 
 *   🌍  I'm based in Chattogram Bangladesh
