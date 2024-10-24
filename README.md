@@ -3,7 +3,7 @@ Hi,
 This is Md. Akther Hosen
 ================================
 
-<small> Web Developer | Frontend Developer | Full Stack Developer | MERN Developer </small>
+ Web Developer | Frontend Developer | Full Stack Developer | MERN Developer 
 --------------------------------------------------------------------------
 
 *   🌍  I'm based in Chattogram Bangladesh
