@@ -1,4 +1,7 @@
-<p align="center"><img src="https://drive.google.com/file/d/1A7OY-K6Hdlp7frVfipsy4adUAQI_wQBP"></p>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1A7OY-K6Hdlp7frVfipsy4adUAQI_wQBP">
+</p>
+
 <br/>
 Hi,
 This is Md. Akther Hosen
