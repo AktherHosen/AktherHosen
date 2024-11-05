@@ -4,7 +4,7 @@
 
 <br/>
 Hi,
-I’m <strong>Md. Akther Hosen<strong/>, a web developer passionate about creating web applications using the MERN stack (MongoDB, Express, React, and Node.js). I recently graduated in Computer Science and Engineering and enjoy turning ideas into reality through code. I focus on building user-friendly interfaces and seamless back-end functionality. I love learning new technologies and collaborating with others on exciting projects. 
+I’m <b>Md. Akther Hosen<b/>, a web developer passionate about creating web applications using the MERN stack (MongoDB, Express, React, and Node.js). I recently graduated in Computer Science and Engineering and enjoy turning ideas into reality through code. I focus on building user-friendly interfaces and seamless back-end functionality. I love learning new technologies and collaborating with others on exciting projects. 
 Let’s connect and create something amazing together! 🤝
 
  Web Developer | Frontend Developer | Full Stack Developer | MERN Developer 
