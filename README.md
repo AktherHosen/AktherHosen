@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1A7OY-K6Hdlp7frVfipsy4adUAQI_wQBP">
 </p>
-
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1A7OY-K6Hdlp7frVfipsy4adUAQI_wQB">
+</p>
 <br/>
 Hi, I’m Md. Akther Hosen, 
 a web developer, passionate about creating web applications. I recently graduated in Computer Science and Engineering and enjoy turning ideas into reality through code. I focus on building user-friendly interfaces and seamless back-end functionality. I love learning new technologies and collaborating with others on exciting projects.
