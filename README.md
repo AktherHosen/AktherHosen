@@ -2,7 +2,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1A7OY-K6Hdlp7frVfipsy4adUAQI_wQBP">
 </p>
 <p align="center">
-  <img src="[https://drive.google.com/uc?export=view&id=1A7OY-K6Hdlp7frVfipsy4adUAQI_wQB](https://drive.google.com/file/d/17A3zH2NMRS1O56_sgX2SRDWFooHZ_lFj/view?usp=sharing)">
+  <img src="https://i.ibb.co.com/NgspVmWR/Screenshot-2025-09-27-203204.png">
 </p>
 <br/>
 Hi, I’m Md. Akther Hosen, 
