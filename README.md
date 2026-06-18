@@ -70,7 +70,7 @@ const akther = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logoColor=white)](https://aktherhosen.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1877F2?style=for-the-badge&logoColor=white)](https://aktherhosen.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-akther-hosen/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nirjhor.nowshad/)
 [![GitHub](https://img.shields.io/badge/GitHub-a78bfa?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/AktherHosen)
