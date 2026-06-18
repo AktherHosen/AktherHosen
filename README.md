@@ -66,27 +66,6 @@ const akther = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/AktherHosen/DonorHive-client">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AktherHosen&repo=DonorHive-client&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f472b6&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/AktherHosen/BlogNest-client">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AktherHosen&repo=BlogNest-client&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f472b6&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/AktherHosen/Astro-Forum">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AktherHosen&repo=Astro-Forum&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f472b6&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/AktherHosen/ArtCraft-client">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AktherHosen&repo=ArtCraft-client&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f472b6&text_color=c9d1d9" />
-</a>
-
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
