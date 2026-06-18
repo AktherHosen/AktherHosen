@@ -56,14 +56,6 @@ const akther = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AktherHosen&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
